@@ -6,7 +6,7 @@
 <body>
 <header>
         <img src="logo.jpeg" alt="Logotipo de pagina" class="logo">
-<h1>SERVICIO DE PAGINAS WWEB Y TIENDAS ONLINE</h1>
+<h1>SERVICIO DE PAGINAS WEB Y TIENDAS ONLINE</h1>
         <p>¡AVANZANDO EN HARDWARE INNOVANDO EN TECNOLOGIA!</p>
 </header>
 
